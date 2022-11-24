@@ -1,1 +1,1 @@
-# iasr-project
+# Image and Speech Recognition project
